@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    background: #eef3f8;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+}
